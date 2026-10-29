@@ -1,0 +1,18 @@
+#python virtual environment 
+.venv/
+venv/
+env/
+
+#python cache
+__pycache__/
+*.py[cod]
+
+#Environment variables and secrets
+.env
+.env.*
+
+#VS code settings
+.vscode/
+
+#Jupter Notebook checkpoints
+.ipynb_checkpoints/
